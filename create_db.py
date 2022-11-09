@@ -2,7 +2,6 @@
 
 
 from project.app import app, db
-from project.models import Post
 
 
 # create the database and the db table
